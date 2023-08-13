@@ -1,0 +1,11 @@
+{
+  "name": "MyPackage",
+  "version": "1.0.0",
+  "description": "This is my own winget package.",
+  "installer": {
+    "url": "https://kwayyy.github.io/FilterKeysSetter_1.0.zip/MyPackage-1.0.0.exe"
+  },
+  "dependencies": [
+    "Chocolatey"
+  ]
+}
